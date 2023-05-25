@@ -43,7 +43,7 @@ Click Below Picture To Open VChat Bot Owner Id...
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![Rɪᴛɪᴋ Rᴀᴊ](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/ritik_raj496)
+[![Rɪᴛɪᴋ Rᴀᴊ](https://te.legra.ph/file/ec0ec70dc7161619d9d40.jpg)](https://t.me/ritik_raj496)
 
 
 #### Main Developer = [Rɪᴛɪᴋ Rᴀᴊ](https://t.me/ritik_raj496)
