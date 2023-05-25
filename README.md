@@ -3,16 +3,16 @@ Best Smart Artificial intelligence Chat bot For Telegram Groups
 Click Below Picture To Open VChat Bot Owner Id...
 
 
-<p align="center"><a href="https://t.me/BikashHalder"><img src="https://te.legra.ph/file/42f892ff82f57fbb1204f.jpg"></a></p>
+<p align="center"><a href="https://t.me/ritik_raj496"><img src="https://te.legra.ph/file/b522f1262c250e305e657.jpg"></a></p>
 
 
 
-### Deploy To Heroku
+### Deploy To HEROKU 
 
 [![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/YUMMI-X-REBOT/Yummichatbot)
 
 
-## Deploy
+## Deploy 
 🌷 You can Deploy Easily Fork repo and Give Start 🌷
 
 ## 🥀 Bot Deploy On Workflow / (KAALI LINUX)
@@ -20,16 +20,16 @@ Click Below Picture To Open VChat Bot Owner Id...
 
 ## 🥀 Kaali Linux Tutorial
 
-[Kaali Linux](https://youtu.be/_nZT5lhcL8U)
+[Yummi Sport]()
 
-## 🥀 Chat Bot Deploy Tutorial On Kaali Linux 
+## 🥀 Chat Bot Deploy Tutorial On Yummi
 
-[Kaali Linux](https://youtu.be/fFRxAG1mCVU)
+
 
 ## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
-[𝐁𝐢𝐤𝐚𝐬𝐡](https://t.me/BikashHalder)
+[Ritik Raj](https://t.me/BikashHalder)
 
-## Telegram 🏪
+## Teleraj496gram 🏪
 
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BGT_Chat)
 
