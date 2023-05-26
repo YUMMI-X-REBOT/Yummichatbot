@@ -1,5 +1,5 @@
 {
-    "name": "Yummichatbot", 
+    "name": "Yummi", 
     "description": "A Telegram Best Artificial Intelligence Chat Bot , written in Python with Pyrogram",
     "logo": "https://te.legra.ph/file/42f892ff82f57fbb1204f.jpg",
     "stack": "container",
