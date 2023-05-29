@@ -57,8 +57,16 @@ async def start_(client: Client, message: Message):
                 [
                     InlineKeyboardButton(
                         "➕ ❰ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ❱ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
+                ],
+                [
+
+                    InlineKeyboardButton(
+
+                        "🍁𝐎𝐰𝐧𝐞𝐫🥀", url=f"https://t.me/ritik_raj496")
+
                 ]
-                
+
+
            ]
         ),
     )
