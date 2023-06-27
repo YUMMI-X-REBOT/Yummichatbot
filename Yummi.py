@@ -46,7 +46,7 @@ async def start_(client: Client, message: Message):
 ┣❥︎ ❄️︎𝐎𝐰𝐧𝐞𝐫❄️︎   » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/{OWNER_USERNAME})
 ┣❥︎ 🍁𝐔𝐩𝐝𝐚𝐭𝐞𝐬🥀 ➪ » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/{UPDATES_CHANNEL})
 ┣❥︎ 🍁𝐒𝐮𝐩𝐩𝐨𝐫𝐭🥀 ➪ » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/{SUPPORT_GROUP})
-┣❥︎ 🍁𝐂𝐫𝐞𝐚𝐭𝐨𝐫🥀 ➪ » [𝐑𝐢𝐭𝐢𝐤 ͢𝐑𝐚𝐣](https://t.me/ritik_raj496)
+┣❥︎ 🍁𝐂𝐫𝐞𝐚𝐭𝐨𝐫🥀 ➪ » [Tricky Raj](https://t.me/TRICKY_RAJ_1)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
