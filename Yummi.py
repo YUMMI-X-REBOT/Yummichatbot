@@ -46,7 +46,7 @@ async def start_(client: Client, message: Message):
 ┣❥︎ ❄️︎𝐎𝐰𝐧𝐞𝐫❄️︎   » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/{OWNER_USERNAME})
 ┣❥︎ 🍁𝐔𝐩𝐝𝐚𝐭𝐞𝐬🥀 ➪ » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/{UPDATES_CHANNEL})
 ┣❥︎ 🍁𝐒𝐮𝐩𝐩𝐨𝐫𝐭🥀 ➪ » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/{SUPPORT_GROUP})
-┣❥︎ 🍁𝐂𝐫𝐞𝐚𝐭𝐨𝐫🥀 ➪ » Trickyraj
+┣❥︎ 🍁𝐂𝐫𝐞𝐚𝐭𝐨𝐫🥀 ➪ » 𝐑𝐨𝐦𝐚𝐚𝐧
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
@@ -82,7 +82,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " 💥 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩 💞", url=f"https://t.me/YummiSport")
+                        " 💥 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩 💞", url=f"https://t.me/+WXnUkRHx_MA0Njc1")
                 ]
             ]
         ),
